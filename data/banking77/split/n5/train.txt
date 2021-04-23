@@ -1,0 +1,30 @@
+pending_cash_withdrawal	"I got cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I already received the cash?"
+disposable_card_limits	let me know how many disposable cards I can have?
+disposable_card_limits	"i am not a premium customer but i want a virtual card, how do i get it"
+virtual_card_not_working	I can't get my virtual card to work at all
+virtual_card_not_working	My Virtual card was rejected for a car rental. Why?
+virtual_card_not_working	How do I get this damn virtual card to work?
+transfer_not_received_by_recipient	"I transferred a payment a couple days ago and it shows done, but it has not been received.  Could you please help me?"
+transfer_not_received_by_recipient	"I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already."
+transfer_not_received_by_recipient	"I just transferred my friend money, but she hasn't received it yet, and it's been a few hours. Can you tell me when to expect it to go through?"
+transfer_not_received_by_recipient	I sent money to someone but they haven't gotten it yet
+card_about_to_expire	"My card will expire soon, do I need to order a new one?"
+card_about_to_expire	"My card has an expiration date, will you send a new one automatically?"
+card_about_to_expire	What do I do if my card is about to expire?
+card_about_to_expire	want to get a new card in china
+card_about_to_expire	"I have a card that expires in the coming month, do I have to specifically ask for the updated card?"
+card_payment_fee_charged	Why is this fee being charged to me after using my card?
+get_disposable_virtual_card	Please can i get a disposable virtual card as well?
+get_disposable_virtual_card	Why use a disposable card?
+why_verify_identity	My identity hasn't been verified.  Can I use my account?
+why_verify_identity	can I use my card before identity verification?
+why_verify_identity	Why do I need to have my identity verified?
+wrong_exchange_rate_for_cash_withdrawal	You applied the wrong exchange rate while I was traveling outside the country.
+wrong_exchange_rate_for_cash_withdrawal	"I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!"
+wrong_exchange_rate_for_cash_withdrawal	I am perplexed. Why is it that I received an extremely wrong rate when I tried to use an ATM using a foreign currency?
+wrong_exchange_rate_for_cash_withdrawal	Do you offer free ATM withdrawals of ones hometown currency while on holiday?
+top_up_failed	The app rejected my top up
+top_up_failed	"Hi, My card is getting declined continuously when i am trying to top-up. Request you to look into this issue or tell me any other alternatives."
+top_up_failed	I don't know why my credit card was declined while I was trying to top-up. Was it something on my end or was there something wrong with the top-up function?
+top_up_failed	My top up is giving me problems. What is wrong with it?
+top_up_failed	How can correct Top up with the app to work correctly?

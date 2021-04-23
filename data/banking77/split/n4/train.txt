@@ -1,0 +1,30 @@
+Refund_not_showing_up	Can you tell me if a credit/refund is coming from a seller? I asked for refund directly from them and am still waiting. It's been a week now and i still havn't seen my refund yet.
+automatic_top_up	auto-top up option can be found where?
+automatic_top_up	Can I use an auto top-up option?
+failed_transfer	Why did the bank reject my transfer?
+failed_transfer	I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?
+failed_transfer	I've tried completing a very standard transfer and have already attempted it 5 times. What's going on here? Is there a problem with your system?
+topping_up_by_card	How do I go about transferring money using my credit card?
+topping_up_by_card	"I tried topping up using my card, but the money is gone?"
+topping_up_by_card	How do I use a card to top up?
+topping_up_by_card	How can I use my credit card to transfer money?
+order_physical_card	Does it cost anyting to get my own card?
+order_physical_card	What do I need to do in order to get a new card?
+order_physical_card	Where do you export the cards to?
+order_physical_card	Are physical card available?
+order_physical_card	I want to request a physical card
+top_up_by_cash_or_cheque	Who do I make a check out to if I want to top off my account?
+declined_cash_withdrawal	I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?
+declined_cash_withdrawal	I tried to use the ATM today but it would not accept my card.
+transfer_into_account	Can I add money to my account via bank transfer?
+transfer_into_account	How do I initiated a bank transfer to top up?
+transfer_into_account	Can I add money to top up my account via a bank transfer?
+card_acceptance	where is card accepted
+card_acceptance	Can I use my card for online payments?
+card_acceptance	Is my card valid everywhere?
+card_acceptance	Where can I use my Mastercard?
+cash_withdrawal_charge	"The past few times I've been to the ATM, I was charged a withdrawal fee. Have your policies changed regarding fees?"
+cash_withdrawal_charge	"I got this stupid fee after taking cash out, why?"
+cash_withdrawal_charge	Why did you charge me extra for withdrawing money?
+cash_withdrawal_charge	Why did using an ATM cause me to be charged an additional fee?
+cash_withdrawal_charge	I just had a look at my statement. Why have I been changed for using the ATM?

@@ -1,0 +1,30 @@
+getting_spare_card	I would like to get some extra cards?
+receiving_money	am i able to receive my salary this way?
+receiving_money	Can friends transfer money to each other?
+verify_top_up	Where do I find my code to verify my top-up card?
+verify_top_up	Why do i have to verify my top-up card?
+verify_top_up	What's up with verifying top-ups?
+card_swallowed	Will you please help me get my card back?
+card_swallowed	"My card got trapped inside an ATM, what should I do?"
+card_swallowed	The ATM kept my card?
+card_swallowed	How do I get my card back after the ATM swallowed it.
+pending_card_payment	"Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete."
+pending_card_payment	Why is my card payment still pending? It should have gone through already.
+pending_card_payment	How many days does a regular transaction take to complete?  I see a pending payment that hasn't changed in the last several days.
+pending_card_payment	Why is this payment pending?
+pending_card_payment	It looks like a payment I've made hasn't made it through yet.
+supported_cards_and_currencies	What are the acceptable currencies for adding funds?
+request_refund	I would like to return my purchases
+request_refund	Are refunds allowed for certain items.
+transfer_timing	Transfers from the US how long will the wait be?
+transfer_timing	Money transfer help? How long?
+transfer_timing	When will my transfer be in my account?
+top_up_reverted	Why did my top-up not get approved this time?
+top_up_reverted	What if my top up is reverted?
+top_up_reverted	"My money is gone. I had topped up recently and saw it was there and went through, but now it's disappeared, what's going on?"
+top_up_reverted	"HI,Accordingly you offer crypto top up but it doesn't seem to be working? Money just disappeared from my account.What should be done now?"
+card_arrival	"A card has been sent to me, how do I track it?"
+card_arrival	"I still haven't received my card after two weeks, is it lost?"
+card_arrival	How long will it take for me to get my card?
+card_arrival	How long will it be to get this new card?
+card_arrival	Is my card lost? I am still waiting for it to be delivered.

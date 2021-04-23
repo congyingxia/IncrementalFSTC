@@ -1,0 +1,30 @@
+change_pin	Are there any specific cash machines that I have to go to in order to change my PIN?
+pending_top_up	Where are my funds? I topped off my car but it didn't seem to complete.
+pending_top_up	Please explain why my top-up hasn't been processed yet?
+verify_source_of_funds	i need to trace a deposit
+verify_source_of_funds	How do I know where my money comes from?
+verify_source_of_funds	Where can I check out the source of available funds in my account?
+balance_not_updated_after_bank_transfer	I can still see money in my account after making a payment
+balance_not_updated_after_bank_transfer	Where is my money that I transfered?!
+balance_not_updated_after_bank_transfer	I transferred some money a couple days ago but haven't received it yet. How long should I expect to wait?
+balance_not_updated_after_bank_transfer	My transfer into my account isn't showing up.
+lost_or_stolen_phone	Do I need my phone to use the app?
+lost_or_stolen_phone	"My phone was taken yesterday, is there something that I need to do?"
+lost_or_stolen_phone	"Everything I have was stolen yesterday making it so I don't have access to the app, what should I do?"
+lost_or_stolen_phone	What do I do if I cannot access the app?
+lost_or_stolen_phone	My cards were stolen
+fiat_currency_support	Can I have money in more than one currency in my account?
+reverted_card_payment?	I received a returned payment that I made.
+reverted_card_payment?	Why did my payment not go through why did it cancel?
+atm_support	Where are the ATMs that accept this card?
+atm_support	Can I use my card at an ATM?
+atm_support	Am I limited to what ATM I can use my card?
+declined_transfer	I just noticed my transfer was declined and I don't know why. Can you help me?
+declined_transfer	I didn't see any reason why my transfer was declined. What gives?
+declined_transfer	I tried to buy something online yesterday but it kept saying declined. Tried another time today but same thing happened. What's Broken?
+declined_transfer	I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.
+card_delivery_estimate	When will my card be delivered?
+card_delivery_estimate	how long does delivery take?
+card_delivery_estimate	How long is the delivery time to the US?
+card_delivery_estimate	What is the wait time for delivery to the US?
+card_delivery_estimate	Can I choose when my card is delivered?

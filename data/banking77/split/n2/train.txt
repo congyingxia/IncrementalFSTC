@@ -1,0 +1,30 @@
+wrong_amount_of_cash_received	I did not get all the cash at ATM.
+activate_my_card	My card activation attempt failed.
+activate_my_card	How do I activate my card so I can start using it?
+pending_transfer	Why is my last transfer pending?
+pending_transfer	"So, my transfer is showing as pending, when will it actually go through?"
+pending_transfer	Can you explain why my payment is still pending?
+direct_debit_payment_not_recognised	I have an unknown direct debit payment on my account
+direct_debit_payment_not_recognised	I do not understand what this particular direct debit is ?
+direct_debit_payment_not_recognised	There is a payment showing on my app that I didn't do. Will you please cancel this payment and refund my money ?
+direct_debit_payment_not_recognised	I found a direct debit I would like to dispute
+unable_to_verify_identity	Why is my identity not being verified?
+unable_to_verify_identity	How long does it take for my id to verify?
+unable_to_verify_identity	It can take between 10 minutes to an hour before you hear back from us about the verification result.  Please try again if your verification fails.  Make sure you double check that images are clear and all document photos are readable without blur or glare. You have to be 18 or older and live in the European Economic area or live in Switzerland to be able to open an account.
+unable_to_verify_identity	"The app isn't letting me log in, but my info is correct."
+unable_to_verify_identity	I can get my identification verified.
+top_up_limits	Are there any top-up limits involved?
+getting_virtual_card	How do I get my virtual card?
+getting_virtual_card	Where do I find a virtual card?
+top_up_by_card_charge	how much is the fee for topping by card
+top_up_by_card_charge	How much does it cost to top up a US-issued card?
+top_up_by_card_charge	Do you charge if I use a European bank card for top up?
+exchange_via_app	How can I exchange currencies in the app?
+exchange_via_app	Can I exchange currencies usign this app?
+exchange_via_app	"Instead of GBP, how do I exchange for AUD?"
+exchange_via_app	How do I exchange AUD for GBP?
+card_not_working	Help.  My card is broken.
+card_not_working	I need help with understanding why my card is not working.
+card_not_working	My card don't work.
+card_not_working	Please help me!  My physical card isn't working right.
+card_not_working	What should I do if I can't use my card?

@@ -1,0 +1,400 @@
+getting_spare_card	Would it be possible to get another card?
+getting_spare_card	How many cards can I have for one account?
+getting_spare_card	I want to order another crad
+getting_spare_card	How can I get additional cards?
+getting_spare_card	Is there a fee for extra cards?
+getting_spare_card	I need some spare physical cards.
+getting_spare_card	I would like to receive a few more physical cards.
+getting_spare_card	Can I have a card after my first one?
+getting_spare_card	How would I go about getting a second card?
+getting_spare_card	I'd like to have another card
+getting_spare_card	"If I need more cards, are there any fees?"
+getting_spare_card	Do you offer multiple cards for the same account?
+getting_spare_card	Can I get a spare card for someone else to use?
+getting_spare_card	I need to get some more physical cards.
+getting_spare_card	"Would I be able to get another card for my account, so I could give one to my daughter?"
+getting_spare_card	What is the procedure for getting another card?
+getting_spare_card	Can I have a second card?
+getting_spare_card	"My daughter would like a card as well, how can we make this happen?"
+getting_spare_card	Can I give a second card to my daughter?
+getting_spare_card	May I have another card?
+getting_spare_card	Is there a fee for sending out more than one card?
+getting_spare_card	Can I order extra cards?
+getting_spare_card	Where can I get a second card?
+getting_spare_card	I was looking to buy another card today.
+getting_spare_card	I need a few more physical cards.
+getting_spare_card	Can i have a second physical card for this account?
+getting_spare_card	Can I purchase extra non-virtual cards?
+getting_spare_card	Am I allowed to give my daughter one of my cards to use?
+getting_spare_card	May I have a second card?
+getting_spare_card	Can i have a card to my daughter?
+getting_spare_card	Are there restrictions for ordering extra cards?
+getting_spare_card	How can I get a second card for my daughter?
+getting_spare_card	Where do I request another card?
+getting_spare_card	Am I able to get a second card?
+getting_spare_card	"If you send me more cards, are there any charges?"
+getting_spare_card	When trying to get more than one card is there a extra amount that needs to be paid?
+getting_spare_card	Is it possible to give a second card for this account to my daughter?
+getting_spare_card	My daughter needs a card. Can I give her one of mine that's linked to my account?
+getting_spare_card	"My child needs a card, how can I add them to the account I currently have?"
+getting_spare_card	"my daughter needs a card, how do i add her?"
+receiving_money	Will salary be received through this?
+receiving_money	How can I get paid in a different currency?
+receiving_money	Can I receive my salary in a currency other than what it is deposited in?
+receiving_money	Can I get my salary through this?
+receiving_money	How can someone send me money?
+receiving_money	Is there a problem with receiving my salary in GBP?
+receiving_money	Do I need to choose GBP to get my salary deposited properly?
+receiving_money	"I get paid in GBP. Should I configure this and if so, where?"
+receiving_money	Is it possible for me to get money out in a different currency?
+receiving_money	Can I use this to receive my salary?
+receiving_money	My salary is received in the form of GBP. Do I need to do anything specific to configure this?
+receiving_money	How do people send me money?
+receiving_money	Is GBP a supported currency?
+receiving_money	Do I need to establish I am paid in GBP before a transfer?
+receiving_money	"Salary in GBP has been received, does it need to be configured elsewhere?"
+receiving_money	How do i get my salary in the account?
+receiving_money	What are the ways for others to transfer me money?
+receiving_money	What different ways are there for someone to send me money?
+receiving_money	What do I need to do to transfer my paycheck to my account?
+receiving_money	How can my friend send me money?
+receiving_money	Can I directly transfer my salary onto here?
+receiving_money	Can this be used to receive my salary?
+receiving_money	Is it possible to deposit money in GBP?
+receiving_money	I received my salary in GBP. How do I change this to my currency?
+receiving_money	How can my friend transfer money to me?
+receiving_money	Can my friends send me money?
+receiving_money	How do I deposit my paycheck to this account?
+receiving_money	Can I use this account to receive my salary?
+receiving_money	Can i deposit my salary to this account?
+receiving_money	How do I get my salary through this account?
+receiving_money	What if I need my salary in a different currency?
+receiving_money	I receive my salary in GBP. Do I need to configure this somehwere?
+receiving_money	Do you know if I can use this for my salary?
+receiving_money	How do I get my paycheck through this?
+receiving_money	can I transfer my salary if it's in a different currency?
+receiving_money	Can I get paid in a different currency?
+receiving_money	Is my salary eligible for this?
+receiving_money	My salary is in GBP; how can I note this in the app?
+receiving_money	Can I get paid in another currency?
+receiving_money	Can I get my paycheck through here?
+verify_top_up	What all is needed to verify the top-up card?
+verify_top_up	It wants me to verify the top up. Why?
+verify_top_up	Where can I find the top-up verification code?
+verify_top_up	Why do I have to verify the top-up that I started?
+verify_top_up	Can you give me information about verification code?
+verify_top_up	What are the benefits to verifying the top-up?
+verify_top_up	how come the verification with the top up
+verify_top_up	Can I verify a top up?
+verify_top_up	reason i need to verify top up
+verify_top_up	Why do you need code verification for my top up?
+verify_top_up	Where can I find the verification code on a top-up card?
+verify_top_up	How do I get my top-up verification code?
+verify_top_up	Is it possible to verify a top up?
+verify_top_up	Is it normal to have to verify my top-up or is something wrong?
+verify_top_up	Why does the top-up need verification?
+verify_top_up	Why does top-up need verifying?
+verify_top_up	Is it necessary to verify my top up?
+verify_top_up	Why am i to verify the top-ups?
+verify_top_up	Where's the verification code for the top-up card?
+verify_top_up	How do I find the verification code for my top-up card?
+verify_top_up	Why is it important to verify a top-up card?
+verify_top_up	Why do I have to verify the top-up?
+verify_top_up	What is the verification code on a top-up?
+verify_top_up	I can't find the top-up verification code.
+verify_top_up	How do I go forth verifying my top-up card?
+verify_top_up	Where do I find the top-up verification code?
+verify_top_up	How is the top-up card verified?
+verify_top_up	Is there a verification code for the top-up card?
+verify_top_up	What is the importance of verifying the top-up?
+verify_top_up	help me find the top-up card's verification code?
+verify_top_up	I don't understand why it says I have to verify the top-up.
+verify_top_up	Can I verify a top-up and what card is used?
+verify_top_up	Where do I go to get the code to verify the top up card?
+verify_top_up	The top-up verification code is missing
+verify_top_up	How do I verify a top-up?
+verify_top_up	I cannot locate the verification code for my top-up card. Please help me.
+verify_top_up	How can I find the top-up verification code?
+verify_top_up	I need help finding the verification code for my top-up card.
+verify_top_up	Is there a verification code for top-ups?
+verify_top_up	What is the necessity of verifying the top up?
+card_swallowed	"What do I do if an ATM ""stole"" my card?"
+card_swallowed	How do I retrieve my card from the machine?
+card_swallowed	I was retrieving money and my card wouldn't remove.
+card_swallowed	What do I do since the machine swallowed my card. I need one.
+card_swallowed	HOw do I get my card back after the ATM has pulled it in?
+card_swallowed	Atm took my card
+card_swallowed	Is there a way I can get my ATM card back from the machine?
+card_swallowed	I think the atm ate my card.
+card_swallowed	The ATM didn't give me the card back!
+card_swallowed	How can I get my card out of the damn ATM?
+card_swallowed	The atm won't give my card back!
+card_swallowed	How can I get my card back out?
+card_swallowed	The ATM machine stole my card.
+card_swallowed	The ATM at Metro bank on High St. Kensington swallowed my card. How do I get it back?
+card_swallowed	My ATM got stuck and I'm not sure what to do.
+card_swallowed	The ATM ate my card.
+card_swallowed	The ATM won't give me my card back.
+card_swallowed	My card was confiscated by an ATM. How do I get my card back?
+card_swallowed	What do I do if the ATM ate my card?
+card_swallowed	ATM still has my card
+card_swallowed	What do I do if an ATM ate my card?
+card_swallowed	What happens if the ATM doesn't give me back my card?
+card_swallowed	I can't pull my card out of the ATM. Help me.
+card_swallowed	I have a problem!  The ATM stole my card!
+card_swallowed	Why would an ATM swallow my card?
+card_swallowed	My card was taken by the ATM.
+card_swallowed	Help!  The atm won't give me my card back.
+card_swallowed	The stupid machine just swallowed my card!! I need a new one ASAP
+card_swallowed	How do I retrieve a trapped card from a ATM?
+card_swallowed	"My card is stuck in the ATM, what can I do?"
+card_swallowed	I was getting cash and can't get my card back.
+card_swallowed	"If my card is trapped in the ATM, what do I do?"
+card_swallowed	My card has been swallowed by an ATM
+card_swallowed	I was taking out funds and was unable to regain my card.
+card_swallowed	What should I do with my atm that got stuck?
+card_swallowed	The ATM at Metro bank on High St. Kensington didn't return my card. What should I do now that the bank is closed?
+card_swallowed	The ATM won't give back my card
+card_swallowed	I was at an ATM and it swallowed my card.
+card_swallowed	WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?
+card_swallowed	What happens if my card is stuck in the ATM?
+pending_card_payment	"My card payment is still on hold, why is it so?"
+pending_card_payment	Why is my payment pending?
+pending_card_payment	My card payment is still pending.
+pending_card_payment	How do i finalize a card payment
+pending_card_payment	Why is my card payment showing as pending?
+pending_card_payment	Why has my payment not gone through?
+pending_card_payment	Please help me to know the status of my card payment as its pending since a while.
+pending_card_payment	"I recently made a payment, and it is showing up in my account as ""pending"". What does that mean?"
+pending_card_payment	What does it mean by pending payment?
+pending_card_payment	When will my card payment be done pending?
+pending_card_payment	I made this payment days ago so why hasn't it gone through yet?
+pending_card_payment	I am seeing pending from the card payment I made.
+pending_card_payment	My card payment is showing pending.
+pending_card_payment	I bought some stuff this morning but the payment shows as pending
+pending_card_payment	I am waiting for a payment to go through.
+pending_card_payment	How long does an item I bought show as pending?
+pending_card_payment	What is a pending payment?
+pending_card_payment	I would like to know why my purchases from this morning are still pending.
+pending_card_payment	Why is there a pending transaction on my card?
+pending_card_payment	My card payment is pending.
+pending_card_payment	Why is a payment showing up on my card as pending?
+pending_card_payment	I made a purchase and it says it's pending. What does that mean?
+pending_card_payment	How long do card transactions take to clear?
+pending_card_payment	what does pending mean?
+pending_card_payment	How long will this card payment stay pending?
+pending_card_payment	My payment still hasn't processed!
+pending_card_payment	"I was double charged, and the second charge is showing as ""pending"". How long will it be before I get my money back once the second charge has been refunded?"
+pending_card_payment	"I have waited 15 days, but my payment still hasn't cleared."
+pending_card_payment	Why would I have a pending payment?
+pending_card_payment	Explain what the pending payment means?
+pending_card_payment	Why are my payments showing pending?
+pending_card_payment	"My card is still pending, I've been waiting a while."
+pending_card_payment	How long does it take for a payment to go thru? I made one a few days ago and it has not been cleared yet.
+pending_card_payment	I bought some things this morning but the payment shows that it is pending
+pending_card_payment	How long does it take to authorise a payment?
+pending_card_payment	I had a payment that I made and it's been some amount of time and would like to know when it's suppose to go though.
+pending_card_payment	What does a pending transaction mean?
+pending_card_payment	I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.
+pending_card_payment	I have a pending payment in my account that I paid a while back ago and it still hasnt gone through. Why would it show pending for so long?
+pending_card_payment	I have a pending payment from stuff I bought this morning.
+supported_cards_and_currencies	"To add money to my account, what currencies can I use?"
+supported_cards_and_currencies	"I need support options, I want to top my card"
+supported_cards_and_currencies	I have 1 other US card.  Can you take that?
+supported_cards_and_currencies	What are the cards and currencies that are supported?
+supported_cards_and_currencies	What currencies are accepted for adding money?
+supported_cards_and_currencies	What kind of currencies can I use to add money?
+supported_cards_and_currencies	I only own one other credit card from the USA. Will it be accepted?
+supported_cards_and_currencies	"If I only have 1 other US card, can you take it?"
+supported_cards_and_currencies	Can I use my American Express to add money to my account?
+supported_cards_and_currencies	can you tell me what cards and currencies you take?
+supported_cards_and_currencies	Can I use American Express to add money into my account?
+supported_cards_and_currencies	Will you accept my other card from the U.S.?
+supported_cards_and_currencies	What is accepted in regards to cards and currencies?
+supported_cards_and_currencies	Will you accept my other card?
+supported_cards_and_currencies	I would like to add money to my account through my American Express.
+supported_cards_and_currencies	Which cards do you guys support? I want to top up using my credit card.
+supported_cards_and_currencies	What credit cards are supported?
+supported_cards_and_currencies	What cards and currencies do you support?
+supported_cards_and_currencies	How do I transfer funds from my American Express into my account?
+supported_cards_and_currencies	How can I use American Express to add money to my account?
+supported_cards_and_currencies	"When adding money, what are the currencies you take?"
+supported_cards_and_currencies	Which forms of currency are accepted?
+supported_cards_and_currencies	Are US credit cards accepted?
+supported_cards_and_currencies	"I want to add money but don't know what currencies you accept, can you tell me?"
+supported_cards_and_currencies	why wouldn't you support american express? its a card i like and use often and i don't want to get a different one
+supported_cards_and_currencies	Tell me which cards and what currency is supported.
+supported_cards_and_currencies	Do you support all cards and currencies?
+supported_cards_and_currencies	Which credit or debit cards can I use to top up?
+supported_cards_and_currencies	What options do I have in regards to payment?
+supported_cards_and_currencies	I just have one other card from the US. Is that okay?
+supported_cards_and_currencies	What are all the currencies and cards supported to use this?
+supported_cards_and_currencies	What cards to do you support to top up.
+supported_cards_and_currencies	Do you accept other currencies besides US Dollars?
+supported_cards_and_currencies	Can I use any currency to add money?
+supported_cards_and_currencies	Is my currency okay to add money with?
+supported_cards_and_currencies	What cards and currencies will suffice?
+supported_cards_and_currencies	How can I use American Express to add funds to my account?
+supported_cards_and_currencies	What cards and currencies are supported?
+supported_cards_and_currencies	What currencies or cards do you support for topping up?
+supported_cards_and_currencies	Which cards and currencies do you support?
+request_refund	"Hello- It is urgent I get a refund on this product. The merchant has not been helpful, what can I do now to get this resolved ASAP?"
+request_refund	Can I receive a refund for my item?
+request_refund	Get an item refund
+request_refund	Would I be able to get a refund for something I bought?
+request_refund	I need to do a refund
+request_refund	I need a refund on an item I have not received.  Am I able to simply cancel the payment?  I don't know how to do this.
+request_refund	I would like a refund for something I bought
+request_refund	I want to return an item.
+request_refund	Can I have a refund?
+request_refund	"I wasn't charged the correct amount for an item I purchased, how can I fix this?"
+request_refund	Hi there! I need to cancel an order I recently made and start processing a refund. Can you please help me with this and set up the refund as soon as possible? It's very urgent.
+request_refund	Please stop my purchase.
+request_refund	I want a refund because my package has been taking too long to arrive. How do I go about doing that?
+request_refund	How do I apply for a refund?
+request_refund	Can I have an item refunded?
+request_refund	"I ordered something ages ago online but it's simply not arriving. I've got enough! Give me back my money, I'm not paying these people."
+request_refund	What do I need to do to get a refund?
+request_refund	I need a refund?
+request_refund	"I am unhappy with my purchase, how do I cancel the order?"
+request_refund	I bought something but now I would like a refund. How do I do that?
+request_refund	How do I get refunded?
+request_refund	Can you cancel my purchase?
+request_refund	How do I cancel a previous purchase
+request_refund	I would appreciate it if I could get an item refunded
+request_refund	How do I claim a refund?
+request_refund	"I don't want the item, I bought it on accident, can I get a refund?"
+request_refund	Hello I changed my mind and really need a refund on one of things I bought recently. Can you please cancel the transaction and get my money back. Please it's urgent.
+request_refund	I would like a refund on one of your products that has been sold to me
+request_refund	I am not Happy with this product can i get a refund?
+request_refund	I want this amount reversed out of my account.
+request_refund	Hello! I recently made a purchase and I'm needing to cancel my order and process a refund as soon as possible.
+request_refund	I want to reverse a purchase. Can I cancel it?
+request_refund	I am chatting about an order from a long while back.  I never got it to this day and am deeply upset by this!  I want all of my money back!  I just can not accept paying for something I never got.
+request_refund	I bought this item and was charged the wrong amount can I get a refund?
+request_refund	I would like to cancel a payment. I purchased something several days ago and i still have not received it.
+request_refund	What's the refund process?
+request_refund	I want a refund for my purchase
+request_refund	How can I process a refund for something I purchased?
+request_refund	I want to get an item refunded
+request_refund	I need to cancel a purchase I made.
+transfer_timing	What is the number of days I have to wait for my Europe transfer?
+transfer_timing	What is the wait time for a transfer from the US?
+transfer_timing	I need a fast transfer from China?  How fast will it be?
+transfer_timing	how soon will I see the transfer in my account?
+transfer_timing	How many days does it take until funds are in my account?
+transfer_timing	How long until my transfer goes through?
+transfer_timing	Do transfers from Europe take longer?
+transfer_timing	What is the fastest that I can make a transfer?
+transfer_timing	how long dies it take for transfers to reflect on my balance
+transfer_timing	"If I started the Bank transfer from Europe, how long will the process take to complete?"
+transfer_timing	How long until the money is in my account?
+transfer_timing	When will a transfer reach my account?
+transfer_timing	When should I expect to see my transfer hit my account?
+transfer_timing	Will my transfer immediately show up in my account?
+transfer_timing	"If I need to do a quick transfer from China, how long should I expect the transfer to take?"
+transfer_timing	When does the money get transferred to my account
+transfer_timing	How long do i have to wait for a transfer to reach my account?
+transfer_timing	How long does it take for funds to come through the US to my account?
+transfer_timing	How long is my Europe transfer wait?
+transfer_timing	How many days does a transfer from the US take?
+transfer_timing	How long do I have to wait for a transfer from the US?
+transfer_timing	How long is the wait for a US transfer?
+transfer_timing	How many days until the money will be in my account?
+transfer_timing	How long does it take for a transfer?
+transfer_timing	What is the time frame for a transfer from the US?
+transfer_timing	when will i receive a US transfer
+transfer_timing	Approximately how long will an urgent transfer from China take?
+transfer_timing	"I initiated a Bank transfer form Europe, how long will this take?"
+transfer_timing	How long does it take to process transfers from Europe?
+transfer_timing	How long does a funds transfer take from one back to another?
+transfer_timing	What would the approximate delivery date be if I transferred something urgently to China?
+transfer_timing	I have to transfer something to China as fast as I can. How long will it take to arrive in China?
+transfer_timing	How long to I have to wait for a transfer to reach my account?
+transfer_timing	How long is it going to take for my funds to show in my account?
+transfer_timing	"How long does a transfer take from the point it's sent, to the point it arrives in my account?"
+transfer_timing	How long will it take for the transfer to reach my account?
+transfer_timing	If my transfer is from Europe how long will it take?
+transfer_timing	There is an important thing from China that I need to transfer. Approximately how long will this take?
+transfer_timing	How long does a transfer take from china?
+transfer_timing	When will money be available in my account?
+top_up_reverted	My top-up was cancelled; will I receive a refund?
+top_up_reverted	How do I fix a reverted top up?
+top_up_reverted	Is it possible to tell if my top up has reverted?
+top_up_reverted	"My top-up showed as complete, but it's no longer there! What's going on here?"
+top_up_reverted	"Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please."
+top_up_reverted	It seems my top up is reverted?
+top_up_reverted	The app wouldn't accept my top up.
+top_up_reverted	"I topped up my account and even though it was confirmed at first, the money isn't there anymore! why did this happen, and where did my money go?"
+top_up_reverted	"I believe my money did not go through with my top up, was there a problem on your end?"
+top_up_reverted	"My top-up was reverted, why did this happen?"
+top_up_reverted	I put money into my account for the minimum balance but the application didn't accept.
+top_up_reverted	Can you tell me if my top-up has been cancelled?
+top_up_reverted	I got topped up but the application reverted it.
+top_up_reverted	Why would my top up be cancelled?
+top_up_reverted	There appears to have been a reversion in my top up
+top_up_reverted	The application reverted my top-up.
+top_up_reverted	I think my top-up was cancelled.
+top_up_reverted	I believed crypto top up with something you offered. This does not seem to be working. The money has been removed from my account though so what's going on?
+top_up_reverted	I topped up but the app reverted it
+top_up_reverted	I went to top up and it is no longer there.  Was it sent back?
+top_up_reverted	What happened to my top-up?
+top_up_reverted	Can you tell me why my top up was reverted?
+top_up_reverted	For what reason would a top up be reverted and returned to my account?
+top_up_reverted	"When I topped up, the app reverted my funds."
+top_up_reverted	What happened to where my top-up was canceled?
+top_up_reverted	I tryed to make a top-up with cryptocurrency but the payment was referted.
+top_up_reverted	The app reverted my top off.
+top_up_reverted	The app reverted my action when I topped up.
+top_up_reverted	Was my top up reversed?
+top_up_reverted	"I see my top-up was canceled, but why?"
+top_up_reverted	Do you know if my top-up has been cancelled?
+top_up_reverted	has my top-up has been cancelled
+top_up_reverted	My top-up was revoked.
+top_up_reverted	Causes of top-up cancellation
+top_up_reverted	The app reverted what I topped up.
+top_up_reverted	Has my top up been reverted?
+top_up_reverted	Im very upset as my top-up was canceled and I have no idea why.
+top_up_reverted	My top-up has been cancelled.
+top_up_reverted	On my last transaction it seem that my top-up was not successful.
+top_up_reverted	I'd like to know why my top-up was canceled please.
+card_arrival	How do I locate my card?
+card_arrival	"I still have not received my new card, I ordered over a week ago."
+card_arrival	I ordered a card but it has not arrived. Help please!
+card_arrival	Is there a way to know when my card will arrive?
+card_arrival	My card has not arrived yet.
+card_arrival	When will I get my card?
+card_arrival	Do you know if there is a tracking number for the new card you sent me?
+card_arrival	i have not received my card
+card_arrival	still waiting on that card
+card_arrival	Is it normal to have to wait over a week for my new card?
+card_arrival	How do I track my card?
+card_arrival	How long does a card delivery take?
+card_arrival	I still don't have my card after 2 weeks.  What should I do?
+card_arrival	still waiting on my new card
+card_arrival	I am still waiting for my card after 1 week.  Is this ok?
+card_arrival	"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?"
+card_arrival	I've been waiting longer than expected for my card.
+card_arrival	Why hasn't my card been delivered?
+card_arrival	Where is my new card? I have been waiting a week!
+card_arrival	My card still hasn't arrived after 2 weeks. Is it lost?
+card_arrival	"I did not get my card yet, is it lost?"
+card_arrival	Status of the card I ordered.
+card_arrival	How long should my new card take to arrive?
+card_arrival	I ordered my card 2 weeks ago and it still isn't here? What do I do?
+card_arrival	"My card has not arrived yet, where is it?"
+card_arrival	What is the tracking number for my card that was mailed?
+card_arrival	I think something went wrong with my card delivery as I haven't received it yet.
+card_arrival	"I'm still waiting for delivery of my new card, why is it taking so long?"
+card_arrival	"I ordered a card a week ago, and it's still not here. What do I do?"
+card_arrival	i want to track the card you sent
+card_arrival	My card hasn't arrived yet.
+card_arrival	I was expecting my new card and am wondering why I haven't received it yet?
+card_arrival	How do I know when my card will arrive?
+card_arrival	I'm still waiting on my card to be delivered.
+card_arrival	Does the card you sent have a way to track to it?
+card_arrival	I ordered a card and I still haven't received it. It's been two weeks. What can I do?
+card_arrival	"I'm starting to think my card is lost because it still hasn't arrived, can you help?"
+card_arrival	Is there tracking info available?
+card_arrival	What is the tracking number for the card you sent?
+card_arrival	Where is the tracking number for the card you sent me?

@@ -1,0 +1,200 @@
+pending_cash_withdrawal	Why is my cash withdrawal pending?
+pending_cash_withdrawal	Why is my withdrawal from the ATM still showing as pending?
+pending_cash_withdrawal	"I needed cash today, so I used another provider's ATM, and when I attempted to withdraw, it declined. I just checked it out and I'm still showing my account with that amount pending! I didn't take any money out, it was declined, so I don't want that to be processed as a withdrawal."
+pending_cash_withdrawal	I took out some cash from the ATM but it is still showing the transaction is pending.
+pending_cash_withdrawal	When will my cash withdrawal show/
+pending_cash_withdrawal	how long until a cash withdrawal will show on my account
+pending_cash_withdrawal	Its been several days and my cash withdrawal is still pending. Why?
+pending_cash_withdrawal	withdrawal pending meaning?
+pending_cash_withdrawal	I pulled cash from the ATM earlier. Why is it still pending if I already have the cash?
+pending_cash_withdrawal	The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?
+pending_cash_withdrawal	The cash I got at the ATM is still in my account.
+pending_cash_withdrawal	"my cash withdrawal is pending, why?"
+pending_cash_withdrawal	Why would a cash withdrawal still be pending?
+pending_cash_withdrawal	Why is my cash still pending that I put in ATM?
+pending_cash_withdrawal	My balance is not what I thought it was following an ATM withdrawal
+pending_cash_withdrawal	"My withdrawal is pending, why?"
+pending_cash_withdrawal	How long does it take for a cash withdrawal to show?
+pending_cash_withdrawal	"Hello. I have a transaction in my account listed as pending. I tried to use an ATM at the city centre, but the machine declined my card, and I did not receive the money. Why is the transaction still pending if I did not receive the money."
+pending_cash_withdrawal	"My account says there are pending funds right now from withdrawing from an ATM, but my card was declined and I never took out any money. When will that money be deposited back into my account?"
+pending_cash_withdrawal	"Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money."
+disposable_card_limits	Are there any restrictions for the disposable cards that I need to be aware of?
+disposable_card_limits	how many transactions can go on a disposable card?
+disposable_card_limits	Where can I use a disposable card?
+disposable_card_limits	Can you tell me if there are limits to disposable virtual cards?
+disposable_card_limits	What are the restrictions on the virtual cards?
+disposable_card_limits	I have to make several disposable cards per day.
+disposable_card_limits	Can I have more disposable cards?
+disposable_card_limits	What stipulations do disposable cards entail?
+disposable_card_limits	I have to make more then a few disposable cards per day.
+disposable_card_limits	Are there restrictions on disposable virtual cards?
+disposable_card_limits	Are there any limits to using disposable virtual cards?
+disposable_card_limits	What is the max amount of disposable cards I'm allowed.
+disposable_card_limits	What are the policies of disposable cards?
+disposable_card_limits	how many uses are the disposable cards good for?
+disposable_card_limits	Is there a limit to the number of disposable cards per day?
+disposable_card_limits	How can many disposable cards can I have per day?
+disposable_card_limits	Do the disposable cards have any restrictions?
+disposable_card_limits	What is the limits on the number of disposable cards I can have?
+disposable_card_limits	I am required to make several disposable cards every day.
+disposable_card_limits	How many transactions can be made with a disposable card?
+virtual_card_not_working	My throwaway virtual card won't work
+virtual_card_not_working	I can't get my virtual card to work.
+virtual_card_not_working	My disposable virtual card won't work.
+virtual_card_not_working	Why was my virtual card rejected?
+virtual_card_not_working	My virtual card isn't working.
+virtual_card_not_working	Please help me.  My disposable virtual card won't work right.
+virtual_card_not_working	"I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?"
+virtual_card_not_working	I cannot get my virtual card to function.
+virtual_card_not_working	virtual card won't work for me
+virtual_card_not_working	My disposable virtual card got rejected
+virtual_card_not_working	My disposable virtual card isn't working.
+virtual_card_not_working	I can't use my virtual disposable card
+virtual_card_not_working	What do I do if my disposable virtual card doesn't work?
+virtual_card_not_working	This disposable virtual card is not working.
+virtual_card_not_working	Can I use my virtual card to complete transactions for memberships?
+virtual_card_not_working	I can't make purchases with my virtual card.
+virtual_card_not_working	My virtual car is not working.
+virtual_card_not_working	Why can't I make multiple payments with my virtual card?
+virtual_card_not_working	My disposable virtual card wouldn't process my payment?
+virtual_card_not_working	Why is my disposable card not working?
+transfer_not_received_by_recipient	"How long does it take for transfers to process?  I sent funds to a friend, and she says that she has not yet received anything."
+transfer_not_received_by_recipient	"i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer."
+transfer_not_received_by_recipient	"|I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please?"
+transfer_not_received_by_recipient	The money has not yet been placed in recipients account.
+transfer_not_received_by_recipient	How long do transfers take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.
+transfer_not_received_by_recipient	I transferred some money but it hasn't arrived.
+transfer_not_received_by_recipient	Why hasn't arrived yet a transaction I did to my friend?
+transfer_not_received_by_recipient	I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?
+transfer_not_received_by_recipient	"I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?"
+transfer_not_received_by_recipient	Why hasn't my transaction been completed?
+transfer_not_received_by_recipient	Why hasn't the transaction I did to my friend arrive yet?
+transfer_not_received_by_recipient	I transferred some cash and it has not arrived yet.
+transfer_not_received_by_recipient	I sent money to my family last Friday but they don't have it.
+transfer_not_received_by_recipient	How long should it take for a transfer to go through? I have been waiting a while.
+transfer_not_received_by_recipient	Why hasn't the transaction I did to my friend arrived yet?
+transfer_not_received_by_recipient	I just sent money but the person I sent it to doesn't see it. What happened?
+transfer_not_received_by_recipient	"I sent a payment, but the person I sent it to says they don't have it"
+transfer_not_received_by_recipient	my friend has not got the money I sent last week.
+transfer_not_received_by_recipient	I dont see my reciept
+transfer_not_received_by_recipient	I am worried that too much time has gone by for a transfer to be completed.
+card_about_to_expire	What happens if my card expires?
+card_about_to_expire	How do I replace my card?
+card_about_to_expire	Does it cost much or take long to get a new card? Mine is about to expire.
+card_about_to_expire	Am I able to have a card sent to China?
+card_about_to_expire	Are there restrictions on new cards in China?
+card_about_to_expire	My card is almost expired.  How fast will I get a new one and what is the cost?
+card_about_to_expire	"My card's expiring a month from now, should I place an order for the new card?"
+card_about_to_expire	How can I get a card sent to China?
+card_about_to_expire	What do I do about my expired card?
+card_about_to_expire	My card is almost going to expire.
+card_about_to_expire	Does it cost anything and how long would it take to get a card if I need a new one? My card is about to expire.
+card_about_to_expire	How do I replace my card before it expires next month?
+card_about_to_expire	Tell me what I should do after my card expires.
+card_about_to_expire	"Need a new card, mine is expiring."
+card_about_to_expire	"I want to get a new card before my current one expires, how much will it cost me and how long will it take to get here."
+card_about_to_expire	How do I order a new card? The current one is about to expire.
+card_about_to_expire	"The expiration of my card is near, how do I order a new card?"
+card_about_to_expire	How can I replace an expired card?
+card_about_to_expire	Where can I have a new bank card sent to China?
+card_about_to_expire	Can I order a new card by phone?
+card_payment_fee_charged	"Why, when paying with the card, was I charged an extra fee?"
+card_payment_fee_charged	Can you explain why I am now getting charged a fee for using my card?
+card_payment_fee_charged	Why are there fees for using a card?
+card_payment_fee_charged	What is the extra fee that was added when I used the card?
+card_payment_fee_charged	I didn't know I was going to get charged to use my card.
+card_payment_fee_charged	There was a fee charged when I paid with my card.
+card_payment_fee_charged	Why is there a fee on a card payment?
+card_payment_fee_charged	"How do I see what fees I am supposed to be charged on my account? I've noticed fees on some transactions, but not on others. This is very confusing and I cannot find a pattern to what I am being charged?"
+card_payment_fee_charged	After I used my card I saw I was charged a fee for using it
+card_payment_fee_charged	How can I tell if there will be a fee added to my payment or not?
+card_payment_fee_charged	what is this extra charge with my purchase?
+card_payment_fee_charged	What can i pay with out  fees
+card_payment_fee_charged	What are these fees i am paying?
+card_payment_fee_charged	I just made an order and noticed an extra fee. Why have you charged me this without informing me?
+card_payment_fee_charged	I noticed a new fee on my account. I didn't know there were fees for these payments. What is the policy?
+card_payment_fee_charged	Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.
+card_payment_fee_charged	I was charged and shouldn't have been charged when using my card!
+card_payment_fee_charged	Why was an extra charge added when I used my card?
+card_payment_fee_charged	"Unbeknownst to me, there was an additional charge on my prior transaction. A notification of sorts should be required and explained before future payments are made."
+card_payment_fee_charged	"There was an extra fee when I paid with my card, why was i charged this extra fee?"
+get_disposable_virtual_card	I need a single use card for shopping online
+get_disposable_virtual_card	how do the cards work?
+get_disposable_virtual_card	I need a disposable virtual card.
+get_disposable_virtual_card	What are these disposable cards meant for?
+get_disposable_virtual_card	Where do I get a disposable virtual card?
+get_disposable_virtual_card	disposable virtual card can be ordered where?
+get_disposable_virtual_card	Can you provide me a disposable virtual card?
+get_disposable_virtual_card	Can you tell me what are disposable cards for?
+get_disposable_virtual_card	What do the disposable cards do?
+get_disposable_virtual_card	How would I use a disposable card?
+get_disposable_virtual_card	How can I create a disposable virtual card?
+get_disposable_virtual_card	I'm interested in learning more about disposable virtual cards.
+get_disposable_virtual_card	Who can purchase a disposable virtual card?
+get_disposable_virtual_card	How do I know if i need a disposable card?
+get_disposable_virtual_card	Is there a way to use this app with a disposable virtual card?
+get_disposable_virtual_card	"I need to deposit my virtual card, how do i do that."
+get_disposable_virtual_card	Will you tell me how I am supposed to use the disposable cards?
+get_disposable_virtual_card	Where do I order a disposable virtual card?
+get_disposable_virtual_card	Please send me a disposable virtual card.
+get_disposable_virtual_card	I would like to know more about what a disposable virtual card is?
+why_verify_identity	Is getting my identity verified required before I can use my account?
+why_verify_identity	Why do I need to verify my identity?
+why_verify_identity	Can I go ahead and use my account even though my identify hasn't been verified yet?
+why_verify_identity	"My ID verification hasn't gone through yet, but can I use my account anyway?"
+why_verify_identity	What's the reason for needing to verify my identity?
+why_verify_identity	What happens if I use my account and my identity verification hasn't finished?
+why_verify_identity	I want to use my account before identity verification
+why_verify_identity	Is there anyway to bypass identity verification?
+why_verify_identity	Do you need my birthdate?
+why_verify_identity	Is it really necessary to verify my Identity?
+why_verify_identity	What is my identification used for?
+why_verify_identity	What is the identity check for?
+why_verify_identity	Is my account accessible even though my verification of my identity has not passed yet?
+why_verify_identity	Why do you guys need to verify my identity?
+why_verify_identity	Is the identity check part of bank policy?
+why_verify_identity	What do you need my identity details for?
+why_verify_identity	Why on earth do you need so much personal id info from me?
+why_verify_identity	Can I already use my account although the identity verification has not passed yet?
+why_verify_identity	I am still waiting for verification.  Can I use my account before I am verified?
+why_verify_identity	It's requiring me to verify my identity?
+wrong_exchange_rate_for_cash_withdrawal	I think when I withdrew money when out of country the exchange rate was wrong.
+wrong_exchange_rate_for_cash_withdrawal	"While abroad, I got cash, and the exchange rate applied is wrong."
+wrong_exchange_rate_for_cash_withdrawal	Please tell me how the exchange rate is determined. I was expecting more money for the transaction.
+wrong_exchange_rate_for_cash_withdrawal	"While abroad I got cash, and a wrong exchange rate was applied."
+wrong_exchange_rate_for_cash_withdrawal	I withdraw money abroad but I didn't get the right amount.
+wrong_exchange_rate_for_cash_withdrawal	The exchange rate was messed up from the ATM
+wrong_exchange_rate_for_cash_withdrawal	what are the exchange rates for foreign currency ATMs
+wrong_exchange_rate_for_cash_withdrawal	How did you arrive at the rate of exchange? I thought that I would get more cash.
+wrong_exchange_rate_for_cash_withdrawal	"I was overcharged at an ATM while on vacation. I needed cash so I had to use it, but your charges are outregous and I wish I would have known beforehand."
+wrong_exchange_rate_for_cash_withdrawal	"Hi, I have withdrawn cash from the ATM on holiday and i guess withdrawal amount has been overcharged. I did it as i was not aware of these charges."
+wrong_exchange_rate_for_cash_withdrawal	The exchange rate was wrong?
+wrong_exchange_rate_for_cash_withdrawal	I think the exchange rate for the cash I withdrew wasn't correct.
+wrong_exchange_rate_for_cash_withdrawal	I had trouble with an incorrect rate being applied when using the ATM with foreign currency.
+wrong_exchange_rate_for_cash_withdrawal	I think I was charged a different exchange rate than what was posted at the time.
+wrong_exchange_rate_for_cash_withdrawal	Why did you give me so little currency?
+wrong_exchange_rate_for_cash_withdrawal	I think that the exchange rate for the withdrawal of my cash is not right.
+wrong_exchange_rate_for_cash_withdrawal	I withdrew cash abroad and the exchange rate applied is wrong.
+wrong_exchange_rate_for_cash_withdrawal	I think the exchange rate is wrong for my ATM withdrawal
+wrong_exchange_rate_for_cash_withdrawal	I made an ATM withdrawal over the holiday and then later realized I was charged an exorbitant fee!  I never would've made this withdrawal if I'd known I'd be charged so much.
+wrong_exchange_rate_for_cash_withdrawal	Rates were applied wrong while using foreign currency at an ATM.
+top_up_failed	Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem.
+top_up_failed	"I tried again to top up my card after doing it a couple days ago when it had worked. Now, it doesn't seem to be working. Can you tell me what the deal is here please?"
+top_up_failed	I am having a huge problem with my card being declined and it's really important that I top-up today.  Would you please look into this further and let me know how I can get this fixed?
+top_up_failed	"Hi I've been trying to top up my card for the past day but it gets declined, I need it topped up urgently! Can somebody get back to me to resolve this or explain any different ways I can top up my card?"
+top_up_failed	"Hi, My card is getting declined during top-up. As it urgent, could you please resolve this issue, or guide me with other alternatives if any."
+top_up_failed	My top up doesn't work
+top_up_failed	I need information explaining why my top-up failed to go through
+top_up_failed	"I attempted to top up my car today, it failed! I just got it a couple of days before and it worked then. What is going on with it?"
+top_up_failed	Top up did not work on the app.
+top_up_failed	I tried to top up with my card but it was declined. I was able to a couple days ago and it worked. Is something wrong? Can you check it for me please?
+top_up_failed	Why would the app deny my top-up?
+top_up_failed	"Hey, I attempted to top up my card today and for some reason it didn't work. When I did it the other way it worked just fine. Could you help me figure out why this is happening please?"
+top_up_failed	Can I tell if my top off didn't work?  It doesn't seem to have.
+top_up_failed	Why isn't my topup working?
+top_up_failed	"Hi, I am experiencing problems while trying to top-up with my card. I have never experienced any problems doing this before. Could you please help me?"
+top_up_failed	What reasons would a topup fail?
+top_up_failed	"Hi, I tried to top up my card today and it did not work. I have tried it in the past and it worked just fine but it won't do it anymore. Can you help me out?"
+top_up_failed	Seems like my top-up has failed
+top_up_failed	My top-up failed to go through.
+top_up_failed	I believe my top up did not work.

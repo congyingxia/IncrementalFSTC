@@ -1,0 +1,140 @@
+transaction_charged_twice	My card is showing multiple charges for the same items on my recent statement. I was wondering what actions of needed to take to fix this issue
+transaction_charged_twice	I was charged two times for the same thing.
+transaction_charged_twice	"I should only have one charge, but it shows two."
+transaction_charged_twice	Why do I have two charges It should only be one charge?
+transaction_charged_twice	Why are there multiple transactions showing for one purchase?
+transaction_charged_twice	I have been charged twice on my statement.
+transaction_charged_twice	"Help, I was charged twice!"
+transaction_charged_twice	"I was charged twice, when I didn't purchase anything twice."
+transaction_charged_twice	"I'm really concerned because I only made one transaction, but it's appearing multiple times."
+transaction_charged_twice	Duplicate transactions appear on my account
+transaction_charged_twice	"Hey there, I just went through my most recent credit card payments and I notice the same charge for a restaurant was processed twice. There was only one meal at this place, so I would like one of the charges to be reversed and my money to be put back in the account."
+transaction_charged_twice	"I went to the store and tried to make a purchase.  The first time, it was declined, but the second one went through.  But my App shows me that I've already been charged once and the second charge is still pending.  Can you make sure that I'm not charged twice?"
+transaction_charged_twice	Why did I get charged twice for the same thing
+transaction_charged_twice	"Hello, I was just went through my recent transaction on my bank account and I just noticed that I was charged twice at a place that ate at this past week. Can I get that second transaction removed from my account?"
+transaction_charged_twice	I think there is a mistake.  I am being charged twice.
+transaction_charged_twice	Why am I being charged again?
+transaction_charged_twice	My statement shows different transaction times.
+transaction_charged_twice	I am concerned that I am being doubled charged for several items purchased in the past week.  Please review my statement and correct.
+transaction_charged_twice	Why is there a payment showing twice?
+transaction_charged_twice	Looking at my statement I see that I was double charged for a payment I made.
+balance_not_updated_after_cheque_or_cash_deposit	"When will I see my cash, since I already deposited my check?"
+balance_not_updated_after_cheque_or_cash_deposit	"I deposited a cheque, why isn't my balance showing that I did?"
+balance_not_updated_after_cheque_or_cash_deposit	I have cash deposit to my account but it is experiencing a problem
+balance_not_updated_after_cheque_or_cash_deposit	I can't see my cash deposit in my account.
+balance_not_updated_after_cheque_or_cash_deposit	Where is my missing cheque I deposited?
+balance_not_updated_after_cheque_or_cash_deposit	I made a deposit and the balance hasn't been updated.
+balance_not_updated_after_cheque_or_cash_deposit	Why isn't my deposit in my account?
+balance_not_updated_after_cheque_or_cash_deposit	"I deposited a check yesterday and Im not seeing it in my account. i need the money, is there something wrong with my account? check it out please"
+balance_not_updated_after_cheque_or_cash_deposit	When will my balance reflect a deposit?
+balance_not_updated_after_cheque_or_cash_deposit	I have yet to receive the cash I added to my account this morning.
+balance_not_updated_after_cheque_or_cash_deposit	"I deposited some money, but the balance has not changed."
+balance_not_updated_after_cheque_or_cash_deposit	"I Submitted a cheque couple of days ago, nothing happened to my account yet.What could be the possible issue?"
+balance_not_updated_after_cheque_or_cash_deposit	Last week I put a cash deposit into my account and it is still isn't there.
+balance_not_updated_after_cheque_or_cash_deposit	"I put money into my account in the form of a cheque, but my balance did not change."
+balance_not_updated_after_cheque_or_cash_deposit	Cash has been deposited this morning but it hasn't came through.
+balance_not_updated_after_cheque_or_cash_deposit	"I made a cash deposit, but it hasn't shown up in my balance yet."
+balance_not_updated_after_cheque_or_cash_deposit	Can you tell me why a cheque deposit isn't showing in my balance?
+balance_not_updated_after_cheque_or_cash_deposit	I'm not seeing my cash deposit showing up in my account.
+balance_not_updated_after_cheque_or_cash_deposit	"I put cash in my account, but I don't see it."
+balance_not_updated_after_cheque_or_cash_deposit	"I deposited cash into my account a week ago and it is still not available, please tell me why? I need the cash back now."
+top_up_by_bank_transfer_charge	What would I be charged in receiving a SEPA transfer?
+top_up_by_bank_transfer_charge	Can third party fees affect a transfer?
+top_up_by_bank_transfer_charge	Am I able to do a SWIFT transfer?
+top_up_by_bank_transfer_charge	Will I be charged for topping up by transfer?
+top_up_by_bank_transfer_charge	What is the charge to make a transfer
+top_up_by_bank_transfer_charge	Does it cost anything to transfer money for a top-up?
+top_up_by_bank_transfer_charge	Does it cost me anything to top up my account via bank transfer?
+top_up_by_bank_transfer_charge	To receive money are there charges?
+top_up_by_bank_transfer_charge	what is the fee for a transfer into my account
+top_up_by_bank_transfer_charge	how much will I be charged for making a transfer?
+top_up_by_bank_transfer_charge	Does it cost me to add cash?
+top_up_by_bank_transfer_charge	Is there a fee for topping off by transfer?
+top_up_by_bank_transfer_charge	Do you process SWIFT transfers?
+top_up_by_bank_transfer_charge	Is there a fee to make a transfer?
+top_up_by_bank_transfer_charge	Will I be charged for adding money by transfer?
+top_up_by_bank_transfer_charge	Am I able to do a SWIFT transfer with you?
+top_up_by_bank_transfer_charge	why do you charge for transfers?
+top_up_by_bank_transfer_charge	What kind of fee is there to top-up my account?
+top_up_by_bank_transfer_charge	Will you guys charge me for topping up by transfer?
+top_up_by_bank_transfer_charge	Am I going to see a charge for a SEPA transfer?
+transfer_fee_charged	I didn't know there was a charge for tranferring. What is the charge?
+transfer_fee_charged	Hey I thought transfers were free.  Why are you charging me?
+transfer_fee_charged	Why did it cost money to transfer funds?
+transfer_fee_charged	I should not have been charged a fee for my transfer.
+transfer_fee_charged	Why am I being charged for transferring money?
+transfer_fee_charged	Will I be charged for transfers?
+transfer_fee_charged	Is there a money transfer fee?
+transfer_fee_charged	Am I charged a fee to transfer funds?
+transfer_fee_charged	Why was I charged this extra fee while doing a transfer?
+transfer_fee_charged	I was charge a fee that I wasn't told about
+transfer_fee_charged	How much do I have to pay if I want to transfer money?
+transfer_fee_charged	Why did I get charged a fee for my transfer?
+transfer_fee_charged	who charged my card
+transfer_fee_charged	"I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?"
+transfer_fee_charged	"So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?"
+transfer_fee_charged	Why was a fee charged to me for transferring money?
+transfer_fee_charged	I got charged a fee for transferring money.
+transfer_fee_charged	This transfer incurred a fee that I don't think is right.
+transfer_fee_charged	Why was I charged extra when transferring?
+transfer_fee_charged	Why would I be charged an extra fee while doing a transfer?
+terminate_account	"This is terrible, i want to delete my account"
+terminate_account	Please delete my account immediately.
+terminate_account	I need to terminate my account immediately.
+terminate_account	I want to deactivate my account.
+terminate_account	"I don't like the services, please close my account"
+terminate_account	I am not satisfied with your company.  Close my account.
+terminate_account	I am not satisfied with your service.  Close my account.
+terminate_account	What are the steps to finishing up with this account?
+terminate_account	I want to close my account & I will never do business with you again.
+terminate_account	"How can I close my account, I don't want it."
+terminate_account	I want to close my account. The service you provide is unsatisfactory to me.
+terminate_account	I no longer want to keep this account.
+terminate_account	Help me close my account.
+terminate_account	I want to end my account
+terminate_account	I want to cancel my account.
+terminate_account	how do i cancel my account
+terminate_account	Tell me how to delete my account.
+terminate_account	cancel my account
+terminate_account	I need to delete my account.
+terminate_account	I'd like to delete my account.
+exchange_rate	How are the exchange rates determined?
+exchange_rate	What's the foreign exchange rate I will receive?
+exchange_rate	Tell me your opinion on the exchange rate.
+exchange_rate	Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?
+exchange_rate	How can I find your exchange rates?
+exchange_rate	How do you do exchanges?
+exchange_rate	"If I need to cash foreign transfers, how does that work?"
+exchange_rate	How do you determine exchange rates?
+exchange_rate	What are the exchange rates you assign?
+exchange_rate	How are foreign exchange rates determined?
+exchange_rate	How will I know what the exchange rate is?
+exchange_rate	What is the current exchange rate?
+exchange_rate	I'd like to know what the foreign exchange rate will be.
+exchange_rate	How do you determine the exchange rate?
+exchange_rate	Will my money be of equal value when I travel abroad?
+exchange_rate	How did you guys get your exchange rate?
+exchange_rate	Your exchange rates come from where?
+exchange_rate	What factors effect the exchange rate?
+exchange_rate	what are your exchange rates at?
+exchange_rate	What method do you use for the exchange rate?
+declined_card_payment	Why was the payment on my card declined?
+declined_card_payment	How do I check to see why my card payment was declined?
+declined_card_payment	My card failed to work when I was shopping in a store
+declined_card_payment	"my card payment has been declined, do you know why?"
+declined_card_payment	My card did not work at store.
+declined_card_payment	I couldn't pay with card in a shop
+declined_card_payment	Why has my card been declined?  whats the deal?
+declined_card_payment	Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.
+declined_card_payment	I'm not sure why my card didn't work
+declined_card_payment	Why have you declined my card payment?
+declined_card_payment	"I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?"
+declined_card_payment	Could you please tell me why my card payment didn't work?
+declined_card_payment	I went to use my new card today and the card was repeatedly declined. I would really like to use this card and need to know what to do about it.
+declined_card_payment	Explain the payment that was declined!
+declined_card_payment	I just got my new card and tried using it and it was declined?
+declined_card_payment	I don't understand why my payment was declined. I thought everything was ok.
+declined_card_payment	The card payment I made didn't work.
+declined_card_payment	When I tried to pay in a store my card din't work
+declined_card_payment	My payment card was declined - could you tell me why?
+declined_card_payment	My card payment is being declined and I've tried several times.

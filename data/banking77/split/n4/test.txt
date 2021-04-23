@@ -1,0 +1,400 @@
+Refund_not_showing_up	The refund isn't showing up on my account.
+Refund_not_showing_up	My refund is missing from my statement.
+Refund_not_showing_up	"I requested a refund, and never received it. What can I do?"
+Refund_not_showing_up	I was supposed to get a purchase refunded but I don't see the money in my account
+Refund_not_showing_up	There's a refund missing from my statement
+Refund_not_showing_up	"I need help. I asked for a refund from a merchant a while ago, but I have not gotten my money back. I keep checking my account, but nothing is showing up. What should I do now?"
+Refund_not_showing_up	I am awaiting my refund
+Refund_not_showing_up	How long does it take for a refund?
+Refund_not_showing_up	"Help! I keep checking my account, but my refund is not showing. I requested that a seller refund my money a while back, but there is no money showing in my account. What can you do for me?"
+Refund_not_showing_up	Can you tell me why my refund is not showing in my statement?
+Refund_not_showing_up	"I asked for a refund last week but nothing has happened yet, can you help me please?"
+Refund_not_showing_up	Why is my refund missing from my  statement?
+Refund_not_showing_up	Still waiting on a refund.
+Refund_not_showing_up	I requested a refund and it is missing.
+Refund_not_showing_up	"Hi, As suggested by you, i have asked the seller to initiate the refund, it has been a week and i haven't received my money. Please advise."
+Refund_not_showing_up	I bought something and returned it and the money from the return isn't in my account.
+Refund_not_showing_up	Do you have any idea on when I will receive my refund? I got my statement and it was not there.
+Refund_not_showing_up	Why isn't a recent refund on my statement?
+Refund_not_showing_up	Where can I see the refund in my account
+Refund_not_showing_up	"i was supposed to get a refund but my balance hasn't changed, why not?"
+Refund_not_showing_up	I requested a refund from a merchant days ago but I do not see it in my account.
+Refund_not_showing_up	The refund has not appeared in my account
+Refund_not_showing_up	Did my refund go through? It's not on my statement.
+Refund_not_showing_up	My statement doesn't show that a refund has processed
+Refund_not_showing_up	I requested a refund from a store but it hasn't arrived.
+Refund_not_showing_up	I still haven't seen a refund on my account
+Refund_not_showing_up	I am missing a refund.
+Refund_not_showing_up	My refund doesn't seem to be showing on my statement.
+Refund_not_showing_up	I am not seeing a refund in my statement.
+Refund_not_showing_up	Why can't I see a recent refund in my statement?
+Refund_not_showing_up	"I did what you told me earlier and contacted the seller for a refund directly, but nothing is happening! It's been a week and I still haven't got anything. Please just give me back my money"
+Refund_not_showing_up	Where is my refund? I have been checking my account all day.
+Refund_not_showing_up	It's been a week and I have done everything that I was asked to do and still nothing. I have contacted the seller and have not gotten a response. Please understand my frustration and put the money back in my account.
+Refund_not_showing_up	My refund is missing
+Refund_not_showing_up	Why doesn't a return show up im my account from a purchase I made?
+Refund_not_showing_up	I keep checking my bank statements but I don't see a refund that I've requested from a seller. Can you ensure that I receive the refund from the seller?
+Refund_not_showing_up	"I am waiting patiently for a week now for the seller to get back to me and there has been no response, could you please help me further with getting my money back.  Thank you."
+Refund_not_showing_up	I would like some help getting a refund back from a seller. It still isn't showing up on my statement and I requested this a long time ago. I'm not sure why it's not returned yet. Can you assist me in getting this money back?
+Refund_not_showing_up	How long will it take to get my refund
+Refund_not_showing_up	I should have received a refund however it is not showing on my statement
+automatic_top_up	"When traveling, can I auto top-up my card at certain times?"
+automatic_top_up	Is there a limit when using auto top-up?
+automatic_top_up	Will it automatically top-up or do I need to do that manually if there isn't much cash left?
+automatic_top_up	"I'm running out of money, can I  auto top up?"
+automatic_top_up	How do I use auto top up?
+automatic_top_up	Can it automatically top-up money if there isn't much left?
+automatic_top_up	If there isn't much money left can it automatically top-up?
+automatic_top_up	"I read about the auto-top up function, but can't find it in the app."
+automatic_top_up	Can I have it add money at certain time intervals when I travel?
+automatic_top_up	"I'm going to be away for awhile, can I have it add money automatically in certain intervals?"
+automatic_top_up	"Where can I find the ""auto-top"" feature?"
+automatic_top_up	"I just activated auto top-up, but it is not letting me enable it. Why not?"
+automatic_top_up	Is there an auto top-up option?
+automatic_top_up	where is theft-top option?
+automatic_top_up	Are there limits on auto top-up?
+automatic_top_up	can you assist me with the auto top up ?
+automatic_top_up	Do you have any limit on the auto top-up?
+automatic_top_up	Why are there limits on auto top-up?
+automatic_top_up	How can I top up automatically?
+automatic_top_up	How do I make sure I don't run out of money on my card while traveling?
+automatic_top_up	What's the limit on automatic top-up?
+automatic_top_up	"If I will be traveling, is there a way to auto top-up my card on certain days?"
+automatic_top_up	Where is the auto top-up option?
+automatic_top_up	Can I have a auto top-up when my account is short?
+automatic_top_up	Do you have an auto top-up option?
+automatic_top_up	Can I space out how often money is transferred along my travels?
+automatic_top_up	Will it automatically top-up money if there isn't a lot left?
+automatic_top_up	Can I have it add money automatically in certain intervals?
+automatic_top_up	Can I set up an automatic top-up for travel.
+automatic_top_up	I've tried looking for the auto-top up option on your website and I can't seem to find it. Can you help me?
+automatic_top_up	how do I top up my money automatically
+automatic_top_up	Can I be topped up once I hit a certain balance?
+automatic_top_up	Will it automatically top-up if there isn't much money left?
+automatic_top_up	Is there any way to Auto top-up?
+automatic_top_up	Can you explain where I can find the auto-top option?
+automatic_top_up	What is the auto top up function and where can I find that at?
+automatic_top_up	Is there a way to top-up automatically?
+automatic_top_up	"Is there a top-up feature, if there isn't a lot of money left?"
+automatic_top_up	What is the highest limit for Auto Top?
+automatic_top_up	How do I enable auto-top up?
+failed_transfer	dont understand why transfer failed
+failed_transfer	Please help me make a transfer. I keep receiving an error and I'm trying to make the initial mortgage payment for a flat I'm buying. What is the deal here?
+failed_transfer	My transfer didn't work
+failed_transfer	"Fix your system. I can't make transfers, I've tried like 5 times already."
+failed_transfer	Tell me why my transfer failed!
+failed_transfer	My transfer did not go through.
+failed_transfer	Why was I not able to complete a transfer?
+failed_transfer	Can you help me figure out what's happening? I'm trying to transfer money to a friend but it keeps getting returned. I'm not sure what i'm doing wrong.
+failed_transfer	Why did my transfer not go through?
+failed_transfer	My transfer didn't go through.
+failed_transfer	I could not get my transfer to happen correctly and was wondering why?
+failed_transfer	how come my transfer didn't work
+failed_transfer	"I transferred my funds, why did it not go through?"
+failed_transfer	Why has my transfer failed?
+failed_transfer	Why did my transfer fail?
+failed_transfer	Why hasn't my transfer been made?
+failed_transfer	My transfer will not go through.
+failed_transfer	My transfer keeps failing and I just want to transfer the money can you please make it work?
+failed_transfer	"The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue ?"
+failed_transfer	Why would a transfer fail?
+failed_transfer	What are your policies for card transfers?
+failed_transfer	Is the system down? I've been trying to do a transfer and have failed?
+failed_transfer	I tried to make a transfer but it failed
+failed_transfer	Why couldn't I complete a transfer?
+failed_transfer	My transfer appeared not to work.
+failed_transfer	What is stopping my money from transferring?
+failed_transfer	"Hi, I'm buying a flat and I'm trying to get my mortgage to go though. Every time I check I simply get an error message. Is there any way you can help me get this money transferred over. Thanks!"
+failed_transfer	My attempted transfer failed.
+failed_transfer	"I can not seem to make a successful transfer, can you tell me what I'm doing wrong?"
+failed_transfer	"Please help me as i am continuously facing the issue in transferring money to my friends, as all my transactions are getting failed."
+failed_transfer	"I am trying to make a transfer and am unsuccessful, can you please tell me why?"
+failed_transfer	My transfer did not seem to work.
+failed_transfer	"I've now been trying to do a really standard transfer 5 times already. What's going on, is your system broken or something?!"
+failed_transfer	help me with my transfer
+failed_transfer	Says my transfer can't be completed?
+failed_transfer	can you tell me why my transfer failed?
+failed_transfer	Why didn't my transfer go through?
+failed_transfer	I've attempted to do a very standard transfer and have tried 5 times at this point. Can you tell me what the issue is? Is the system down?
+failed_transfer	Can you provide a reason as to why my transfer did not work?
+failed_transfer	I tried to transfer money and it did not work.
+topping_up_by_card	How can I top up my account with a card?
+topping_up_by_card	WHERE IS MY MONEY I WAS USING MY CARD AND IT DISAPPEARED
+topping_up_by_card	How can I top up by card?
+topping_up_by_card	What is the process for using my credit card to transfer money?
+topping_up_by_card	How do I top up my card using your app? I'm new to this.
+topping_up_by_card	Can friends add to my account
+topping_up_by_card	Can I top up using my car?
+topping_up_by_card	Why can't I see my topup in my wallet anymore?
+topping_up_by_card	Use credit card to transfer money
+topping_up_by_card	How do my friends top up my account
+topping_up_by_card	"I followed the instructions to transfer money using my card, but then the money disappeared and I don't know what happened."
+topping_up_by_card	Where's the money that got charged to my card? It's not showing up in my account balance
+topping_up_by_card	how can i top up?
+topping_up_by_card	"I am missing some funds from my account - I tried to transfer them using my credit card number, and it disappeared."
+topping_up_by_card	I have friends that would like to top-up my account is that possible?
+topping_up_by_card	How do I transfer money using a credit card?
+topping_up_by_card	Can I give my friends access to my account so they can top it up for me?
+topping_up_by_card	"I did a top-up, but I'm not seeing it in my wallet yet."
+topping_up_by_card	"i know i entered the right info, but my top up isn't in my balance"
+topping_up_by_card	Will my friend be able to top off my account?
+topping_up_by_card	Is there a way to transfer funds directly from my card?
+topping_up_by_card	Why isn't my top up showing on my wallet?
+topping_up_by_card	"I tried to top up using my card, but now the money just disappeared!"
+topping_up_by_card	Help me transfer money to my credit card.
+topping_up_by_card	I tried to use my card to top up but all of the money has disappeared.
+topping_up_by_card	Is it possible to use my credit card to transfer money?
+topping_up_by_card	How can someone add money to my account?
+topping_up_by_card	Cannot access my top up.
+topping_up_by_card	Are my friends able to add funds to my account?
+topping_up_by_card	Can I transfer money to my credit card?
+topping_up_by_card	Who else can top up my account
+topping_up_by_card	Why is my money gone right when I attempted to top up
+topping_up_by_card	How do i transfer money using my credit card?
+topping_up_by_card	My friends want to top up my account
+topping_up_by_card	Who can top up my accounts?
+topping_up_by_card	show me how to top up with my card
+topping_up_by_card	I topped up my card but the money disappeared.
+topping_up_by_card	Why don't I see my top up in my wallet?
+topping_up_by_card	Why can't I see the top-up amount I just added to my account?
+topping_up_by_card	Are my friends able to top up my account?
+order_physical_card	How do I receive my physical card
+order_physical_card	I want a card. What is the procedure?
+order_physical_card	What do you charge for physical cards?
+order_physical_card	Where can I get my card at?
+order_physical_card	price of physical card
+order_physical_card	"Please, how do I order a card?"
+order_physical_card	Send me a physical card
+order_physical_card	I want to order a card. Where do you deliver to?
+order_physical_card	Can I request a physical card?
+order_physical_card	Is there a charge for physical cards
+order_physical_card	Do you charge for physical cards
+order_physical_card	Do you ship cards to where I live?
+order_physical_card	"For physical cards, do you charge?"
+order_physical_card	I need to get an actual card so that I can use it for in person transactions. How would I do this?
+order_physical_card	Will I get a real card?
+order_physical_card	Where can you deliver cards?
+order_physical_card	Where are cards delivered to?
+order_physical_card	Please tell me how to get a physical card.
+order_physical_card	What is the charge for a physical card?
+order_physical_card	Is a non-electronic card available as well
+order_physical_card	How much does it cost in fees to use your card?
+order_physical_card	How can I get a physical card
+order_physical_card	Can I get a physical card through this app?
+order_physical_card	can I have a non virtual card?
+order_physical_card	How do I get a physical card?
+order_physical_card	What are the fees to get a physical card?
+order_physical_card	Where can my card be delivered?
+order_physical_card	What will I be charged for a physical card?
+order_physical_card	Where do I order my card?
+order_physical_card	What locations can a card be delivered to?
+order_physical_card	Where can I receive my card?
+order_physical_card	Where do you deliver cards by mail?
+order_physical_card	How can I get a real-life card of my own?
+order_physical_card	Where will I find my card?
+order_physical_card	"If I want a physical card, do I have to pay anything?"
+order_physical_card	Where can cards be delivered?
+order_physical_card	I need a physical card.
+order_physical_card	What are the fees for a physical card?
+order_physical_card	How do I get an actual card?
+order_physical_card	Can I get a real card?
+top_up_by_cash_or_cheque	Can I top up by cheque?
+top_up_by_cash_or_cheque	How do I top-up using cash?
+top_up_by_cash_or_cheque	Can I top up with a cheque?
+top_up_by_cash_or_cheque	Is it possible to top up with cash? If so how do I do it?
+top_up_by_cash_or_cheque	Can you help me find top up by cash deposit?
+top_up_by_cash_or_cheque	Is there an option to top up a with cheque?
+top_up_by_cash_or_cheque	Need to deposit a cheque into my account
+top_up_by_cash_or_cheque	I'm looking for the cash deposit top up option but can't find it. Can you help me?
+top_up_by_cash_or_cheque	How do I top up my account with a cash payment?
+top_up_by_cash_or_cheque	I'd like to use cash to top up. How do I find that option?
+top_up_by_cash_or_cheque	Where do I locate topping up with cash.
+top_up_by_cash_or_cheque	How do I pay by check?
+top_up_by_cash_or_cheque	Can I add to my account balance with a cheque?
+top_up_by_cash_or_cheque	What type of deposits do you accept into my account?
+top_up_by_cash_or_cheque	Can I top up using a cheque?
+top_up_by_cash_or_cheque	Can you top-up a card with a cheque?
+top_up_by_cash_or_cheque	"I need to top up cash, How do I do it?"
+top_up_by_cash_or_cheque	I'm looking for the option to top up by cheque.
+top_up_by_cash_or_cheque	What locations can I top up with cash?
+top_up_by_cash_or_cheque	"I want to top up using cash, where can I do that?"
+top_up_by_cash_or_cheque	is there a way to do top up with cash deposit
+top_up_by_cash_or_cheque	Where are the options to top up with a cheque on my account?
+top_up_by_cash_or_cheque	Can I use cash to top up my account?
+top_up_by_cash_or_cheque	How can I top up with cash?
+top_up_by_cash_or_cheque	Will you accept a cheque to top up my account?
+top_up_by_cash_or_cheque	How can I top up with this cheque I got?
+top_up_by_cash_or_cheque	What methods can I use to top up my account?
+top_up_by_cash_or_cheque	Is cash good to top up with?
+top_up_by_cash_or_cheque	how come i can't find anywhere to load using cash
+top_up_by_cash_or_cheque	What can I pay with? Does cash work?
+top_up_by_cash_or_cheque	How do I deposit cash into my account?
+top_up_by_cash_or_cheque	Why can't I top up with a cheque?
+top_up_by_cash_or_cheque	Can I send a cheque to do my top ups?
+top_up_by_cash_or_cheque	Can I top up my account with a cheque?
+top_up_by_cash_or_cheque	I want to do a cash top-up
+top_up_by_cash_or_cheque	"I have a cheque here, can I use it to top off my account?"
+top_up_by_cash_or_cheque	I want to top-up using cash
+top_up_by_cash_or_cheque	How can I top-up my card?
+top_up_by_cash_or_cheque	Can I submit a check or cash payment?
+top_up_by_cash_or_cheque	Do you accept checks?
+declined_cash_withdrawal	Can you tell me why you won't let me get my own money out of the money machine? I know I used the right PIN.
+declined_cash_withdrawal	My withdrawal was cancelled.
+declined_cash_withdrawal	This is very frustrating. I can't get my card to work on any ATM I try and I've tried 3 of them so far. What's going on? Can you please fix this issue immediately?
+declined_cash_withdrawal	The ATM did not allow me to withdraw
+declined_cash_withdrawal	Why was my ATM transaction cancelled?
+declined_cash_withdrawal	The ATM keeps declining my card. I tried at a couple different ATMs. Can you tell me if there's a problem with my account?
+declined_cash_withdrawal	I was at the ATM trying to made a withdraw and I was declined.
+declined_cash_withdrawal	The ATM didn't let me get any cash
+declined_cash_withdrawal	I want to know why I have been unable to withdrawn funds.
+declined_cash_withdrawal	"I need your help to check my account, please! My card keeps being declined at the ATM, and I've already tried two different ones!"
+declined_cash_withdrawal	"Hi, My card withdrawal was declined this morning. It was working fine till yesterday. Please check and inform me."
+declined_cash_withdrawal	"Hi, I was trying to use my card but it was declining by ATM. I have cross checked with two different ATMs but i was facing the same issue. Could you please check my account."
+declined_cash_withdrawal	I tried to make a cash withdrawal and it was declined. Why did this happen?
+declined_cash_withdrawal	I can't get money out of the ATM
+declined_cash_withdrawal	The ATM is declining my card. I tried at two different ATMs. Can you tell me if there's anything wrong with my account?
+declined_cash_withdrawal	The withdrawal was declined I am unsure as to why this happened?
+declined_cash_withdrawal	I was declined when I tried to get cash.
+declined_cash_withdrawal	Why was I declined at the ATM today when I was trying to make a withdraw?
+declined_cash_withdrawal	What are some reasons that would cause ATM machines to decline my card? It has happened to me multiple times!
+declined_cash_withdrawal	Why did the ATM machine fail to give me a cash withdrawal?
+declined_cash_withdrawal	My ATM transaction was unsuccessful.
+declined_cash_withdrawal	I attempted to get cash but was declined.
+declined_cash_withdrawal	I tried to withdraw money but I was declined!
+declined_cash_withdrawal	How come I can't take money out of the ATM?
+declined_cash_withdrawal	The ATM keeps declining my card. I tried at two different ATMs. Can you tell me if there's an issue with my account?
+declined_cash_withdrawal	Why was my cash withdrawal declined?
+declined_cash_withdrawal	Why could I not get cash?
+declined_cash_withdrawal	why couldn't I get cash in the ATM?
+declined_cash_withdrawal	Why can't I get cash?
+declined_cash_withdrawal	Why didn't the ATM give me my money?
+declined_cash_withdrawal	i tried to withdraw money from an atm and i was declined on front of my friends. Why did this happen?
+declined_cash_withdrawal	The ATM isn't giving out any money.
+declined_cash_withdrawal	Why was I declined getting cash?
+declined_cash_withdrawal	I couldn't get cash at the atm
+declined_cash_withdrawal	"Oh my goodness, my card has been declined twice at ATM! I tried two different ATM, but each one declined my card! Can you tell me what's going on with my account?"
+declined_cash_withdrawal	Why could I not choose cash at the ATM?
+declined_cash_withdrawal	My cash withdrawl was declined why?
+declined_cash_withdrawal	Is there a reason that the ATM declined my transaction?
+declined_cash_withdrawal	The cash I tried to draw from the ATM was not approved.
+declined_cash_withdrawal	atm would not give me cash
+transfer_into_account	Can I do a bank transfer to put additional money in my account because I am out of money?
+transfer_into_account	"I'm out of money, can I add money with my bank?"
+transfer_into_account	How do I go forth on transferring money into my account?
+transfer_into_account	"I don't understand how to top up my account, can you please explain the process?"
+transfer_into_account	I don't understand the money transfer process.
+transfer_into_account	"I need to transfer money into my account, how do I go about doing this?"
+transfer_into_account	What do I need to do to transfer money into my account?
+transfer_into_account	I don't know what to do. Should I transfer funds. My account is out of money.
+transfer_into_account	Can I add funds to the card directly from my bank account?
+transfer_into_account	How does tranferring money into my account work?
+transfer_into_account	I NEED TO KNOW HOW TO TRANSFER MONEY INTO MY BANK ACCOUNT. PLEASE HELP
+transfer_into_account	I would like to transfer some money from my other bank account into this one.
+transfer_into_account	"When I want to transfer money to my account, how can I do that?"
+transfer_into_account	I need to transfer funds into my account. How can I do this?
+transfer_into_account	What are the steps I follow to transfer money into my account?
+transfer_into_account	How can I transfer funds from my bank to my top up account?
+transfer_into_account	I want to top my account by using a bank transfer. How would that work?
+transfer_into_account	How to I transfer my funds into my account?
+transfer_into_account	How do I top up my card?
+transfer_into_account	How can I transfer money from an outside bank?
+transfer_into_account	How can I fund my top-up account using my bank account?
+transfer_into_account	What methods can I use to add money to my account?
+transfer_into_account	"I would like to use the bank transfer feature, but I can't find it. Can you please give me the details?"
+transfer_into_account	How can I perform a dual money transferring from one account to another?
+transfer_into_account	CAN YOU EXPLAIN HOW TO TRANSFER MONEY INTO MY  ACCOUNT FOR ME?
+transfer_into_account	"I need to bank account transfer from another account into this one, what is the easiest way that can be done, and what information do i need?"
+transfer_into_account	How do I transfer money to my account?
+transfer_into_account	How do I send my account money through transfer?
+transfer_into_account	How do I do an international transfer?
+transfer_into_account	Are there ways to transfer money into my account?
+transfer_into_account	I want to transfer from accounts in order to Top up. What are the steps necessary.
+transfer_into_account	How does a transfer work?
+transfer_into_account	"I would like use the bank transfer, but I don't understand the process, can you please explain, topping up?"
+transfer_into_account	I want to use bank transfer for topping up my account. How is it handled?
+transfer_into_account	I checked my account today and it said I was out of money. How do I transfer money into my account?
+transfer_into_account	How can I transfer money to my account?
+transfer_into_account	I would like to transfer funds from one account to another.
+transfer_into_account	I'm trying to transfer money into my account.
+transfer_into_account	I would like to transfer money from my other bank account into this one.
+transfer_into_account	Can I use a bank transfer to refill my account?
+card_acceptance	Will my card be accepted all over the world?
+card_acceptance	Who accepts this card?
+card_acceptance	Can I use my card for payment all over the world?
+card_acceptance	It will be fine to use at any establishment that accepts Mastercard.
+card_acceptance	Where can the card be used?
+card_acceptance	Can my card be used everywhere?
+card_acceptance	Are there any limits on where I can use my card?
+card_acceptance	What stores can I sue my card?
+card_acceptance	Can I use my card anywhere I want?
+card_acceptance	Is there anywhere my card will not be accepted?
+card_acceptance	What are the rules to where I can use my card?
+card_acceptance	Do you know where my card will be accepted?
+card_acceptance	What places can I use my card?
+card_acceptance	Is my card accepted everywhere?
+card_acceptance	What places will accept my card for payment?
+card_acceptance	Does this card work everywhere?
+card_acceptance	"What businesses accept this card?"
+card_acceptance	Where can I use my card?
+card_acceptance	Which outlets accept my card?
+card_acceptance	"I am traveling to Germany, Will I be able to use my card there?"
+card_acceptance	What stores will take my credit card as payment?
+card_acceptance	Is there any place I cannot use my card?
+card_acceptance	Will I be able to use my card anywhere?
+card_acceptance	Is my card usable anywhere?
+card_acceptance	Is it acceptable to use my card anywhere?
+card_acceptance	Can I use my card everywhere?
+card_acceptance	Where is my card accepted?
+card_acceptance	Where can I pay with my debit or credit card?
+card_acceptance	Where should my card work?
+card_acceptance	areas card is accpeted
+card_acceptance	places i can use the card
+card_acceptance	Can I make online purchases with my card?
+card_acceptance	Does every place of business accept this card?
+card_acceptance	What places will accept my card?
+card_acceptance	Can I use my card anywere?
+card_acceptance	Will any business take this card?
+card_acceptance	Will filling stations accept my card?
+card_acceptance	Where am I able to use the card?
+card_acceptance	What can I use my card to pay for?
+card_acceptance	Who accepts my card?
+cash_withdrawal_charge	I see some fees for cash withdraw.
+cash_withdrawal_charge	How come I was charged extra when I withdrew cash?
+cash_withdrawal_charge	Why am I being charged when I withdraw cash?
+cash_withdrawal_charge	What is this charge on my account for a cash withdrawl?
+cash_withdrawal_charge	Why are fees charged on cash withdrawals? I went to withdraw some money earlier today after shopping. There's a fee that wasn't there before.
+cash_withdrawal_charge	"How come you charge for cash withdrawals? I withdrew cash after buying groceries today, and there seems to be a new fee"
+cash_withdrawal_charge	It looks like I was charged a withdrawal fee for going to my ATM. Why is that because I haven't been charged previously for doing so?
+cash_withdrawal_charge	"Do ATM cash withdrawals carry a charge now? They've been free in the past, but all of a sudden I have to pay to make ATM withdrawals?"
+cash_withdrawal_charge	Why is there an extra charge for money that was withdrawn?
+cash_withdrawal_charge	Why was I charged a fee for withdrawing cash?
+cash_withdrawal_charge	Why did I get a fee?
+cash_withdrawal_charge	Why did my cash get charged a fee that should not be there.
+cash_withdrawal_charge	Why did I have to pay a fee when I got cash?
+cash_withdrawal_charge	"Hi, I am calling about a recent transaction that has happened on my account.  I recently went to the ATM, and tried to make a withdrawal on my account.  I just happened to check my transaction slip and noticed a fee for my withdrawal.  How can I resolve this, I didn't know fees were charged for this type of action."
+cash_withdrawal_charge	A fee was charged for my recent withdrawal.
+cash_withdrawal_charge	I got a fee for an ATM withdrawal.
+cash_withdrawal_charge	What is the reason for this fee I got after a simple cash withdrawal?
+cash_withdrawal_charge	Did you start charging for cash withdrawals? I thought it was free so far but noticed suddendly there is a fee. How much do I need to pay?
+cash_withdrawal_charge	Is there a fee for withdrawing cash?
+cash_withdrawal_charge	"I've notice I was charged for withdrawing cash, can you explain why?"
+cash_withdrawal_charge	Why was my account charged for using an ATM?
+cash_withdrawal_charge	Why is there a charge on my account for taking out cash?
+cash_withdrawal_charge	An ATM fee was attached to my recent withdrawal.
+cash_withdrawal_charge	I thought cash withdrawals didn't have a fee
+cash_withdrawal_charge	Why did I get charged a fee when I tried to obtain cash?
+cash_withdrawal_charge	"While I was checking out in the grocery store, I realized I needed cash so I requested some.  However, I noticed there was a fee for this transaction.  Why did I get charged a fee?"
+cash_withdrawal_charge	Using an ATM caused me to incur an additional fee. Why?
+cash_withdrawal_charge	I was charged extra for a withdrawal
+cash_withdrawal_charge	Is there a limit on how much I can withdraw from my account without being charged?
+cash_withdrawal_charge	"I thought cash withdrawals were free? Why have I been charged a fee? Also, how much is this fee?"
+cash_withdrawal_charge	"More fees, this time for withdrawing my own cash. Why are you robbing me?"
+cash_withdrawal_charge	I have never been charged a fee for cash withdrawal before. When did that change?
+cash_withdrawal_charge	I was charged for a cash withdrawal.
+cash_withdrawal_charge	Why did you charge me for a cash withdrawal?
+cash_withdrawal_charge	I took cash and got charged a fee
+cash_withdrawal_charge	Was charged an ATM fee despite it being a small withdrawal on the 1st day of the month. I thought I was allowed 200 per month?
+cash_withdrawal_charge	I had a wrong fee charged at this ATM.
+cash_withdrawal_charge	"When I got cash, I'm pretty sure there was a glitch that overcharged me."
+cash_withdrawal_charge	"My account got charged for taking out cash, why did this happen?"
+cash_withdrawal_charge	Why is there a fee for withdrawing?
