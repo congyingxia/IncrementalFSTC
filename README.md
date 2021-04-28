@@ -1,6 +1,6 @@
 # Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System
 
-This repository provides code and data for the following paper: [Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System](https://arxiv.org/abs/2104.11882). Congying Xia*, Wenpeng Yin*, Yihao Feng, Philip Yu. NAACL, 2021. (* indicates equal contribution.)
+This repository provides code and data for the following paper: [Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System](https://arxiv.org/abs/2104.11882). Congying Xia*, Wenpeng Yin*, Yihao Feng, Philip Yu. [NAACL, 2021](https://2021.naacl.org/program/accepted/). (* indicates equal contribution.)
 
 # Requirements
 This repo is implemented with pytorch.
