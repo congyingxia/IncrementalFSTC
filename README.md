@@ -8,10 +8,9 @@ Text classification is usually studied by labeling natural language texts with r
 </p>
 
 # Requirements
-This repo is implemented with pytorch.
+This repository is implemented through the [Huggingface Transformers](https://github.com/huggingface/transformers) package. To use the program the following prerequisites need to be installed.
 Python==3.6.12
 Pytorch==0.4.1
-Huggingface Transformers
 tqdm
 scicy
 
