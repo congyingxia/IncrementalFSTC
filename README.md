@@ -9,10 +9,11 @@ Text classification is usually studied by labeling natural language texts with r
 
 # Requirements
 This repository is implemented through the [Huggingface Transformers](https://github.com/huggingface/transformers) package. To use the program the following prerequisites need to be installed.
-Python==3.6.12
-Pytorch==0.4.1
-tqdm
-scicy
+* Huggingface Transformers
+* Python==3.6.12
+* Pytorch==0.4.1
+* tqdm
+* scicy
 
 # Data Format
 There are two datasets used in our paper: [Banking77](https://github.com/PolyAI-LDN/task-specific-datasets) (Intent Detection) and [FewRel](https://github.com/thunlp/FewRel) (Relation classification). We create two benchmarks based on these two datasets for the incremental few-shot text classification task. Each dataset is a folder under the ./data folder, where each sub-folder contains the split for different rounds, including base, n1, n2, n3, n4, n5 and ood classes. The script for generating these splits are provided in run_data_preprocess.sh.
