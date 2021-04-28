@@ -40,3 +40,16 @@ Each setting has a sub-folder under the ./code foler. There are multiple models 
 To run each method, please find the script for that method under that setting.
 For example, if you want to run our proposed method ENTAILMENT for intent detection without base classes, please go to ./code/No_base_Intent and run sh train.entailment.commands.sh
 
+
+# Reference
+
+If you find our code useful, please cite our paper.
+
+```
+@article{xia2021incremental,
+  title={Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System},
+  author={Congying Xia and Wenpeng Yin and Yihao Feng and Philip Yu},
+  journal={arXiv preprint arXiv:2104.11882},  
+  year={2021}
+}
+```
