@@ -24,6 +24,9 @@ In our paper, we release two benchmark datasets for the incremental few-shot tex
     ├── run_data_preprocess.sh
     └── split
         ├── base
+        │   ├── train.txt
+        │   ├── dev.txt
+        │   └── test.txt
         ├── n1    
         ├── n2
         ├── n3    
