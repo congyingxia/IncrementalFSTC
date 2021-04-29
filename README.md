@@ -16,7 +16,7 @@ This repository is implemented through the [Huggingface Transformers](https://gi
 * scicy
 
 # Data Format
-There are two datasets used in our paper: [Banking77](https://github.com/PolyAI-LDN/task-specific-datasets) (Intent Detection) and [FewRel](https://github.com/thunlp/FewRel) (Relation classification). We create two benchmarks based on these two datasets for the incremental few-shot text classification task. Each dataset is a folder under the ```./data``` folder, where each sub-folder contains the split for different rounds, including ```base```, ```n1```, ```n2```, ```n3```, ```n4```, ```n5``` and ```ood``` classes. The script for generating these splits are provided in ```run_data_preprocess.sh```.
+There are two datasets used in our paper: [Banking77](https://github.com/PolyAI-LDN/task-specific-datasets) (Intent Detection) and [FewRel](https://github.com/thunlp/FewRel) (Relation classification). We create two benchmarks based on these two datasets for the incremental few-shot text classification task. Each dataset(```banking77``` and ```FewRel```) is a folder under the ```./data``` folder, where each sub-folder contains the split for different rounds, including ```base```, ```n1```, ```n2```, ```n3```, ```n4```, ```n5``` and ```ood``` classes. The script for generating these splits are provided in ```run_data_preprocess.sh```.
 
 ```
 ./data
