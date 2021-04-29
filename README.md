@@ -38,9 +38,9 @@ The scripts for generating these splits are provided in ```run_data_preprocess.s
 
 # Usage
 There are three different settings in our experiments:
-1) Relation Classification without base classes;
-2) Intent detection without base classes; 
-3) Intent detection with base classes.
+1. No_base_FewRel: Relation Classification without base classes;
+2. No_base_Intent: Intent detection without base classes; 
+3. With_base_Intent: Intent detection with base classes.
 
 Each setting has a sub-folder under the ./code foler. There are multiple models (our model and baselines) implemented for each setting.
 To run each method, please find the script for that method under that setting.
