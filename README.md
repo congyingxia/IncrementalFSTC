@@ -38,14 +38,11 @@ The scripts for generating these splits are provided in ```run_data_preprocess.s
 
 # Usage
 There are three different settings in our experiments:
-1. No_base_FewRel: Relation Classification without base classes;
-2. No_base_Intent: Intent detection without base classes; 
-3. With_base_Intent: Intent detection with base classes.
+1. Relation Classification without base classes (```No_base_FewRel```);
+2. Intent detection without base classes (```No_base_Intent```); 
+3. Intent detection with base classes (```With_base_Intent```).
 
-Each setting has a sub-folder under the ./code foler. There are multiple models (our model and baselines) implemented for each setting.
-To run each method, please find the script for that method under that setting.
-For example, if you want to run our proposed method ENTAILMENT for intent detection without base classes, please go to ./code/No_base_Intent and run sh train.entailment.commands.sh
-
+Each setting is a sub-folder under the ```./code``` foler. We implement different models (including baselines) under these settings, for example: ```Hybrid```, ```entailment```, and ```DNNC```. To train a model under a certain setting, please go to the corresponding subfolder and run the script with the model name. For example, if you want to run our proposed method ENTAILMENT for intent detection without base classes, please go to ./code/No_base_Intent and run sh train.entailment.commands.sh
 
 # Reference
 
