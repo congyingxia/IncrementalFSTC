@@ -16,7 +16,9 @@ This repository is implemented through the [Huggingface Transformers](https://gi
 * scicy
 
 # Data Format
-In our paper, we release two benchmark datasets for the incremental few-shot text classification task: IFS-INTENT and IFS-RELATION. These two benchmarks are created based on two datasets: [Banking77](https://github.com/PolyAI-LDN/task-specific-datasets) (Intent Detection) and [FewRel](https://github.com/thunlp/FewRel) (Relation classification). Each dataset(```banking77``` and ```FewRel```) is a sub-folder under the ```./data``` folder, where we provide the splits for different rounds, including ```base```, ```n1```, ```n2```, ```n3```, ```n4```, ```n5``` and ```ood``` classes. The script for generating these splits are provided in ```run_data_preprocess.sh```. For each round, there are three files, including ```train.txt```, ```dev.txt``` and ```test.txt```.
+In our paper, we release two benchmark datasets for the incremental few-shot text classification task: IFS-INTENT and IFS-RELATION. These two benchmarks are created based on two datasets: [Banking77](https://github.com/PolyAI-LDN/task-specific-datasets) (Intent Detection) and [FewRel](https://github.com/thunlp/FewRel) (Relation classification). Each dataset(```banking77``` and ```FewRel```) is a sub-folder under the ```./data``` folder, where we provide the splits for different rounds, including ```base```, ```n1```, ```n2```, ```n3```, ```n4```, ```n5``` and ```ood``` classes. 
+
+The script for generating these splits are provided in ```run_data_preprocess.sh```. Generally, we randomly split the classes in the original dataset into a base group, 5 rounds of new classes and a group of out-of-distribution classes. Then we split the train/test examples provided by the original dataset into different rounds according to the splited classes. For each round, we provide the data for training (```train.txt```) and test (```test.txt```).
 
 ```
 ./data
@@ -25,7 +27,6 @@ In our paper, we release two benchmark datasets for the incremental few-shot tex
     └── split
         ├── base
         │   ├── train.txt
-        │   ├── dev.txt
         │   └── test.txt
         ├── n1    
         ├── n2
