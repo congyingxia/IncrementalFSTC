@@ -36,6 +36,11 @@ The scripts for generating these splits are provided in ```run_data_preprocess.s
         └── ood
 ```
 
+# Resources
+
+You can download the pre-trained model weights for MNLI from [MNLI_pretrained.pt](https://drive.google.com/file/d/1iNo0U4lADSr3mESvmk_GjVL97fAptaLW/view?usp=sharing.)
+
+
 # Usage
 There are three different settings in our experiments:
 1. Relation Classification without base classes (```No_base_FewRel```);
@@ -43,6 +48,7 @@ There are three different settings in our experiments:
 3. Intent detection with base classes (```With_base_Intent```).
 
 Each setting is a sub-folder under the ```./code``` foler. We implement different models (including baselines) under these settings, for example: ```Hybrid```, ```entailment```, and ```DNNC```. To train a model under a certain setting, please go to the corresponding subfolder and run the script with the model name. For example, if you want to run our proposed method ```entailment``` for intent detection without base classes, please go to ```./code/No_base_Intent``` and run ```sh train.entailment.commands.sh```.
+
 
 # Reference
 
